@@ -6,24 +6,91 @@
   <title>Identity Intelligence AI Agent Workflow Studio</title>
   <link rel="stylesheet" href="src/styles.css">
 </head>
-<body class="ai-discovery" style="--accent:#7c3aed;--bg:#f7f2ff">
-  <main class="ai-shell">
-    <header class="ai-hero">
-      <p>AI product discovery studio</p>
-      <h1>Identity Intelligence AI Agent Workflow Studio</h1>
-      <span>Blends interview evidence, community feedback, product telemetry, competitive research, and prompt-test notes into PRD-ready choices.</span>
+<body>
+  <main class="shell">
+    <header class="masthead">
+      <div>
+        <p class="eyebrow">Product management portfolio artifact</p>
+        <h1>Identity Intelligence AI Agent Workflow Studio</h1>
+        <p class="lede">Prioritize internal AI agent opportunities, convert the top workflow into a PRD-ready spec, test the agent, and plan adoption before scale.</p>
+      </div>
+      <aside class="decision-panel">
+        <span>Top workflow</span>
+        <strong id="top-workflow">Loading</strong>
+        <small id="top-score">Scoring workflow evidence</small>
+      </aside>
     </header>
-    <section class="prd-grid">
-      <article class="memo"><b>01</b><h2>User Pull</h2><p>Power users want faster ideation, but community threads show low tolerance for black-box creative controls.</p></article>
-      <article class="memo"><b>02</b><h2>Edge Cases</h2><p>Prompt ambiguity, asset ownership, and revision memory are the highest-risk requirements before launch.</p></article>
-      <article class="memo"><b>03</b><h2>Roadmap Bet</h2><p>Ship a narrow feedback loop around saved prompts before expanding into a broader creative workflow suite.</p></article>
+
+    <nav class="tabs" aria-label="Artifact surfaces">
+      <button class="tab is-active" type="button" data-view="cockpit"><span>01</span>Cockpit</button>
+      <button class="tab" type="button" data-view="spec"><span>02</span>Spec</button>
+      <button class="tab" type="button" data-view="eval"><span>03</span>Evaluation</button>
+      <button class="tab" type="button" data-view="training"><span>04</span>Training</button>
+    </nav>
+
+    <section class="view is-active" id="cockpit" data-panel="cockpit">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Portfolio cockpit</p>
+          <h2>Rank the agent workflows worth building first</h2>
+        </div>
+        <p>Scores combine discovery pull, agent fit, quality gates, sensitivity, complexity, effort, and team readiness.</p>
+      </div>
+      <div class="metric-grid" id="summary-metrics"></div>
+      <div class="queue-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Workflow</th>
+              <th>Domain</th>
+              <th>Score</th>
+              <th>Eval</th>
+              <th>Data</th>
+              <th>Training</th>
+              <th>Decision</th>
+            </tr>
+          </thead>
+          <tbody id="priority-table"></tbody>
+        </table>
+      </div>
     </section>
-    <section class="experiment-wall">
-      <h2>Launch Readout</h2>
-      <div><span>Activation lift</span><strong>+20%</strong></div>
-      <div><span>Escalation risk</span><strong>-21%</strong></div>
-      <div><span>Research hours</span><strong>-18</strong></div>
+
+    <section class="view" id="spec" data-panel="spec">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Workflow specification</p>
+          <h2>Turn discovery into a delivery handoff</h2>
+        </div>
+        <p id="spec-context">Loading workflow context</p>
+      </div>
+      <div class="spec-grid" id="spec-grid"></div>
+    </section>
+
+    <section class="view" id="eval" data-panel="eval">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Agent evaluation lab</p>
+          <h2>Review quality before the workflow spreads</h2>
+        </div>
+        <p>Evaluation focuses on source grounding, sensitive data handling, reviewer handoff, and repeatability.</p>
+      </div>
+      <div class="eval-layout">
+        <div class="eval-list" id="eval-list"></div>
+        <div class="gate-list" id="gate-list"></div>
+      </div>
+    </section>
+
+    <section class="view" id="training" data-panel="training">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Training rollout</p>
+          <h2>Plan adoption like a product launch</h2>
+        </div>
+        <p>Lowest-readiness teams are queued first so agent usage has examples, review norms, and ownership.</p>
+      </div>
+      <div class="training-board" id="training-board"></div>
     </section>
   </main>
+  <script src="src/app.js"></script>
 </body>
 </html>

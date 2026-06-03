@@ -1,17 +1,30 @@
--- Priority queue foundation
+-- Workflow priority review
 select
-  entity_id,
-  avg(risk_score) as avg_risk_score,
-  avg(quality_score) as avg_quality_score,
-  sum(value_pool) as value_pool
-from daily_metrics
-group by 1
-order by avg_risk_score desc;
+  workflow_id,
+  workflow_name,
+  domain,
+  priority_score,
+  recommendation
+from workflow_priority_queue
+order by priority_score desc;
 
--- Action readiness
+-- Agent evaluation defects
 select
-  action_type,
-  avg(expected_lift_pct) as expected_lift,
-  avg(effort_hours) as effort_hours
-from recommended_actions
-group by 1;
+  workflow_id,
+  eval_type,
+  pass_rate,
+  defect_severity
+from agent_evaluation_matrix
+where defect_severity in ('High', 'Medium')
+order by pass_rate asc;
+
+-- Training readiness queue
+select
+  team,
+  module,
+  readiness_score,
+  blocker,
+  next_action
+from training_rollout_plan
+where readiness_score < 75
+order by readiness_score asc;

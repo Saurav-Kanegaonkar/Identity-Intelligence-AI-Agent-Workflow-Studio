@@ -1,0 +1,12 @@
+{
+  "seed": 5262026,
+  "workflow_count": 10,
+  "signal_count": 260,
+  "eval_case_count": 60,
+  "training_plan_count": 32,
+  "top_workflow": "Internal AI Agent Review Coach",
+  "top_priority_score": 87.6,
+  "pilot_now_count": 5,
+  "avg_eval_pass_rate": 67.2,
+  "avg_training_readiness": 78.8
+}

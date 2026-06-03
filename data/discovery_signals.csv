@@ -1,0 +1,261 @@
+signal_id,signal_date,workflow_id,signal_type,stakeholder_team,pain_score,urgency_score,requirements_clarity,sample_note
+SIG-0001,2026-01-05,AGT-001,stakeholder interview,Product,7.4,8.6,5.0,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0002,2026-01-06,AGT-005,sales note,Implementation,7.8,7.0,8.7,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0003,2026-01-07,AGT-003,training request,Growth product,5.7,7.4,6.2,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0004,2026-01-08,AGT-001,support escalation,Product,9.4,6.9,5.5,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0005,2026-01-09,AGT-009,training request,Sales,8.3,6.6,7.2,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0006,2026-01-10,AGT-006,quality review,Compliance,4.8,6.4,5.1,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0007,2026-01-11,AGT-010,stakeholder interview,Product operations,8.7,6.5,4.6,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0008,2026-01-12,AGT-006,sales note,Compliance,6.6,4.8,3.2,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0009,2026-01-13,AGT-004,quality review,Customer operations,5.5,6.9,3.5,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0010,2026-01-14,AGT-006,quality review,Compliance,7.1,7.3,5.3,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0011,2026-01-15,AGT-008,training request,Data operations,6.5,2.9,5.6,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.
+SIG-0012,2026-01-16,AGT-010,stakeholder interview,Product operations,7.9,9.6,4.9,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0013,2026-01-17,AGT-010,training request,Product operations,8.0,7.5,4.6,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0014,2026-01-18,AGT-001,stakeholder interview,Product,6.8,6.7,5.4,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0015,2026-01-19,AGT-006,sales note,Compliance,9.1,5.8,6.2,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0016,2026-01-20,AGT-008,quality review,Data operations,8.9,7.2,6.2,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.
+SIG-0017,2026-01-21,AGT-004,stakeholder interview,Customer operations,7.5,5.6,7.6,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0018,2026-01-22,AGT-003,stakeholder interview,Growth product,7.0,3.9,7.0,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0019,2026-01-23,AGT-003,quality review,Growth product,6.1,8.6,5.8,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0020,2026-01-24,AGT-005,sales note,Implementation,8.9,8.6,5.6,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0021,2026-01-25,AGT-003,operations retro,Growth product,5.2,7.0,6.5,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0022,2026-01-26,AGT-002,support escalation,Risk products,8.3,7.6,5.4,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0023,2026-01-27,AGT-006,training request,Compliance,7.1,4.7,3.3,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0024,2026-01-28,AGT-008,training request,Data operations,8.2,7.3,6.1,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.
+SIG-0025,2026-01-29,AGT-002,support escalation,Risk products,7.7,7.4,7.1,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0026,2026-01-30,AGT-007,sales note,Customer success,6.8,8.0,5.4,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0027,2026-01-31,AGT-001,quality review,Product,10,9.3,4.2,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0028,2026-02-01,AGT-003,stakeholder interview,Growth product,6.4,5.1,4.2,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0029,2026-02-02,AGT-004,support escalation,Customer operations,7.8,3.7,5.6,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0030,2026-02-03,AGT-001,stakeholder interview,Product,9.6,7.1,4.1,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0031,2026-02-04,AGT-003,support escalation,Growth product,4.6,7.3,4.5,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0032,2026-02-05,AGT-002,training request,Risk products,7.5,8.6,6.3,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0033,2026-02-06,AGT-001,operations retro,Product,9.7,5.9,3.7,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0034,2026-02-07,AGT-002,sales note,Risk products,7.2,7.4,6.3,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0035,2026-02-08,AGT-002,support escalation,Risk products,6.7,4.0,6.2,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0036,2026-02-09,AGT-010,sales note,Product operations,10.0,10,6.6,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0037,2026-02-10,AGT-005,operations retro,Implementation,9.1,9.6,4.4,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0038,2026-02-11,AGT-003,quality review,Growth product,9.5,9.2,3.8,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0039,2026-02-12,AGT-005,training request,Implementation,8.0,7.1,4.3,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0040,2026-02-13,AGT-003,sales note,Growth product,7.1,6.9,5.6,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0041,2026-02-14,AGT-006,training request,Compliance,6.8,5.8,4.7,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0042,2026-02-15,AGT-001,support escalation,Product,7.9,3.6,6.3,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0043,2026-02-16,AGT-002,stakeholder interview,Risk products,9.6,3.9,4.4,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0044,2026-02-17,AGT-003,stakeholder interview,Growth product,7.1,8.6,4.8,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0045,2026-02-18,AGT-006,sales note,Compliance,8.2,5.9,4.1,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0046,2026-02-19,AGT-007,sales note,Customer success,6.9,8.5,2.6,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0047,2026-02-20,AGT-002,operations retro,Risk products,9.1,5.6,4.8,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0048,2026-02-21,AGT-002,operations retro,Risk products,8.0,7.7,6.4,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0049,2026-02-22,AGT-010,training request,Product operations,7.6,5.2,5.4,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0050,2026-02-23,AGT-009,training request,Sales,7.5,7.8,6.7,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0051,2026-02-24,AGT-004,stakeholder interview,Customer operations,6.8,7.7,5.7,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0052,2026-02-25,AGT-005,stakeholder interview,Implementation,8.1,5.2,6.1,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0053,2026-02-26,AGT-009,operations retro,Sales,8.2,10,6.2,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0054,2026-02-27,AGT-006,training request,Compliance,5.6,4.1,5.3,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0055,2026-02-28,AGT-002,sales note,Risk products,9.5,6.8,5.6,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0056,2026-03-01,AGT-005,training request,Implementation,9.0,9.0,4.9,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0057,2026-03-02,AGT-004,quality review,Customer operations,6.7,4.8,7.2,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0058,2026-03-03,AGT-007,operations retro,Customer success,5.4,8.9,8.5,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0059,2026-03-04,AGT-001,training request,Product,9.9,10,4.2,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0060,2026-03-05,AGT-009,stakeholder interview,Sales,8.5,7.6,5.9,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0061,2026-03-06,AGT-010,quality review,Product operations,7.3,8.8,4.6,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0062,2026-03-07,AGT-005,sales note,Implementation,7.2,10,5.6,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0063,2026-03-08,AGT-010,sales note,Product operations,7.3,8.2,4.6,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0064,2026-03-09,AGT-010,operations retro,Product operations,7.2,6.7,5.6,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0065,2026-03-10,AGT-001,training request,Product,8.4,5.9,5.7,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0066,2026-03-11,AGT-010,training request,Product operations,8.9,6.2,5.5,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0067,2026-03-12,AGT-006,stakeholder interview,Compliance,5.2,4.2,5.5,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0068,2026-03-13,AGT-005,operations retro,Implementation,8.8,6.9,4.8,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0069,2026-03-14,AGT-007,training request,Customer success,8.7,7.0,6.7,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0070,2026-03-15,AGT-001,quality review,Product,9.6,7.5,6.3,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0071,2026-03-16,AGT-004,quality review,Customer operations,7.5,2.8,4.1,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0072,2026-03-17,AGT-002,sales note,Risk products,8.6,7.0,5.0,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0073,2026-03-18,AGT-007,stakeholder interview,Customer success,7.0,8.3,3.9,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0074,2026-03-19,AGT-005,sales note,Implementation,8.4,6.6,6.1,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0075,2026-03-20,AGT-004,support escalation,Customer operations,5.9,6.9,5.5,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0076,2026-03-21,AGT-010,stakeholder interview,Product operations,9.3,10,4.7,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0077,2026-03-22,AGT-007,support escalation,Customer success,9.3,5.2,5.2,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0078,2026-03-23,AGT-009,training request,Sales,6.3,8.1,6.7,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0079,2026-03-24,AGT-005,support escalation,Implementation,8.3,5.4,5.4,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0080,2026-03-25,AGT-009,quality review,Sales,8.2,10,3.6,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0081,2026-03-26,AGT-009,support escalation,Sales,8.6,7.6,6.4,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0082,2026-03-27,AGT-008,support escalation,Data operations,7.7,6.5,5.3,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.
+SIG-0083,2026-03-28,AGT-006,operations retro,Compliance,5.3,6.0,6.3,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0084,2026-03-29,AGT-007,sales note,Customer success,8.0,9.9,5.9,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0085,2026-03-30,AGT-009,operations retro,Sales,7.1,7.3,7.3,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0086,2026-03-31,AGT-001,operations retro,Product,10,6.1,6.1,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0087,2026-04-01,AGT-006,quality review,Compliance,6.7,5.2,5.0,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0088,2026-04-02,AGT-007,support escalation,Customer success,4.5,8.5,5.3,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0089,2026-04-03,AGT-009,quality review,Sales,6.0,5.9,3.9,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0090,2026-04-04,AGT-007,quality review,Customer success,6.7,8.6,5.0,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0091,2026-04-05,AGT-004,training request,Customer operations,6.2,5.7,8.0,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0092,2026-04-06,AGT-008,operations retro,Data operations,10,5.1,7.3,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.
+SIG-0093,2026-04-07,AGT-009,stakeholder interview,Sales,8.5,7.6,6.7,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0094,2026-04-08,AGT-002,training request,Risk products,6.7,5.1,3.8,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0095,2026-04-09,AGT-010,stakeholder interview,Product operations,7.0,5.4,5.8,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0096,2026-04-10,AGT-003,training request,Growth product,10,6.8,6.7,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0097,2026-04-11,AGT-005,sales note,Implementation,8.3,5.9,5.8,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0098,2026-04-12,AGT-008,stakeholder interview,Data operations,7.5,5.2,8.1,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.
+SIG-0099,2026-04-13,AGT-001,quality review,Product,6.7,9.0,5.8,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0100,2026-04-14,AGT-002,quality review,Risk products,7.0,5.5,4.4,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0101,2026-04-15,AGT-001,quality review,Product,8.8,5.8,4.9,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0102,2026-04-16,AGT-007,sales note,Customer success,5.7,5.8,7.0,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0103,2026-04-17,AGT-004,operations retro,Customer operations,6.4,6.8,5.9,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0104,2026-04-18,AGT-006,training request,Compliance,5.7,6.6,4.0,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0105,2026-04-19,AGT-008,quality review,Data operations,5.9,7.0,6.3,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.
+SIG-0106,2026-04-20,AGT-003,training request,Growth product,8.9,7.0,8.4,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0107,2026-04-21,AGT-010,training request,Product operations,6.4,8.6,5.1,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0108,2026-04-22,AGT-010,operations retro,Product operations,9.1,5.0,5.4,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0109,2026-04-23,AGT-009,support escalation,Sales,8.5,6.6,5.5,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0110,2026-04-24,AGT-003,operations retro,Growth product,8.2,6.8,5.5,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0111,2026-04-25,AGT-010,support escalation,Product operations,9.9,6.5,8.2,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0112,2026-04-26,AGT-006,quality review,Compliance,8.1,7.1,3.5,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0113,2026-01-05,AGT-002,quality review,Risk products,7.9,7.4,5.7,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0114,2026-01-06,AGT-001,quality review,Product,8.6,9.3,7.7,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0115,2026-01-07,AGT-004,quality review,Customer operations,6.7,6.4,5.5,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0116,2026-01-08,AGT-001,training request,Product,10,6.0,3.4,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0117,2026-01-09,AGT-001,operations retro,Product,9.0,8.1,5.2,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0118,2026-01-10,AGT-004,training request,Customer operations,7.5,5.4,4.8,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0119,2026-01-11,AGT-003,stakeholder interview,Growth product,8.7,5.3,5.3,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0120,2026-01-12,AGT-005,support escalation,Implementation,7.5,7.6,5.6,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0121,2026-01-13,AGT-007,training request,Customer success,4.3,7.8,7.2,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0122,2026-01-14,AGT-003,stakeholder interview,Growth product,7.8,6.0,6.5,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0123,2026-01-15,AGT-001,stakeholder interview,Product,8.8,8.0,5.9,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0124,2026-01-16,AGT-009,training request,Sales,8.9,6.4,5.2,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0125,2026-01-17,AGT-010,quality review,Product operations,7.5,10,4.5,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0126,2026-01-18,AGT-006,sales note,Compliance,9.6,6.7,5.8,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0127,2026-01-19,AGT-006,operations retro,Compliance,4.8,5.1,5.4,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0128,2026-01-20,AGT-005,training request,Implementation,7.9,4.5,4.8,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0129,2026-01-21,AGT-010,support escalation,Product operations,5.6,8.3,6.7,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0130,2026-01-22,AGT-001,stakeholder interview,Product,8.4,6.7,3.9,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0131,2026-01-23,AGT-006,stakeholder interview,Compliance,6.8,5.7,5.2,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0132,2026-01-24,AGT-002,operations retro,Risk products,7.4,7.4,4.2,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0133,2026-01-25,AGT-005,support escalation,Implementation,8.1,6.8,6.7,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0134,2026-01-26,AGT-003,support escalation,Growth product,7.3,10,5.6,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0135,2026-01-27,AGT-008,support escalation,Data operations,7.6,7.9,4.8,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.
+SIG-0136,2026-01-28,AGT-004,operations retro,Customer operations,6.5,7.4,6.5,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0137,2026-01-29,AGT-007,quality review,Customer success,4.5,8.8,5.8,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0138,2026-01-30,AGT-005,stakeholder interview,Implementation,7.4,4.4,3.6,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0139,2026-01-31,AGT-008,operations retro,Data operations,9.1,10,4.2,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.
+SIG-0140,2026-02-01,AGT-008,stakeholder interview,Data operations,8.4,7.4,4.8,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.
+SIG-0141,2026-02-02,AGT-002,quality review,Risk products,7.2,4.3,6.1,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0142,2026-02-03,AGT-003,stakeholder interview,Growth product,6.6,9.3,3.2,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0143,2026-02-04,AGT-008,operations retro,Data operations,9.6,9.1,4.4,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.
+SIG-0144,2026-02-05,AGT-005,stakeholder interview,Implementation,8.6,5.8,4.0,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0145,2026-02-06,AGT-004,stakeholder interview,Customer operations,5.5,5.3,4.6,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0146,2026-02-07,AGT-004,support escalation,Customer operations,6.3,6.4,5.2,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0147,2026-02-08,AGT-009,support escalation,Sales,6.6,7.8,5.7,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0148,2026-02-09,AGT-005,operations retro,Implementation,7.0,4.6,4.6,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0149,2026-02-10,AGT-003,sales note,Growth product,5.7,6.1,6.0,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0150,2026-02-11,AGT-002,stakeholder interview,Risk products,8.6,5.2,7.2,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0151,2026-02-12,AGT-010,support escalation,Product operations,8.7,8.3,5.0,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0152,2026-02-13,AGT-005,quality review,Implementation,7.3,8.7,4.4,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0153,2026-02-14,AGT-006,training request,Compliance,7.2,3.5,4.3,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0154,2026-02-15,AGT-010,quality review,Product operations,8.5,10,5.0,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0155,2026-02-16,AGT-004,quality review,Customer operations,6.1,7.0,6.4,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0156,2026-02-17,AGT-006,stakeholder interview,Compliance,7.0,8.4,3.3,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0157,2026-02-18,AGT-007,training request,Customer success,9.0,5.9,6.9,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0158,2026-02-19,AGT-003,operations retro,Growth product,10,3.6,4.3,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0159,2026-02-20,AGT-003,training request,Growth product,7.3,4.5,5.3,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0160,2026-02-21,AGT-007,quality review,Customer success,6.9,5.5,7.5,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0161,2026-02-22,AGT-004,sales note,Customer operations,7.1,4.9,4.2,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0162,2026-02-23,AGT-006,training request,Compliance,4.8,5.9,4.5,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0163,2026-02-24,AGT-005,stakeholder interview,Implementation,6.3,5.5,4.5,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0164,2026-02-25,AGT-001,operations retro,Product,7.7,9.0,3.7,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0165,2026-02-26,AGT-005,operations retro,Implementation,3.9,5.8,4.1,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0166,2026-02-27,AGT-009,sales note,Sales,8.3,5.3,7.1,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0167,2026-02-28,AGT-001,operations retro,Product,9.0,7.8,8.0,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0168,2026-03-01,AGT-005,operations retro,Implementation,10,9.3,6.9,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0169,2026-03-02,AGT-005,operations retro,Implementation,9.3,6.6,5.6,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0170,2026-03-03,AGT-009,stakeholder interview,Sales,7.1,8.7,5.2,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0171,2026-03-04,AGT-007,sales note,Customer success,4.4,6.1,4.8,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0172,2026-03-05,AGT-006,stakeholder interview,Compliance,6.9,4.4,3.7,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0173,2026-03-06,AGT-002,training request,Risk products,8.0,7.1,7.1,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0174,2026-03-07,AGT-001,training request,Product,6.4,4.9,8.5,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0175,2026-03-08,AGT-010,training request,Product operations,6.7,9.6,8.6,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0176,2026-03-09,AGT-008,support escalation,Data operations,9.0,4.7,6.0,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.
+SIG-0177,2026-03-10,AGT-010,training request,Product operations,7.7,6.7,4.7,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0178,2026-03-11,AGT-006,stakeholder interview,Compliance,7.8,6.0,6.5,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0179,2026-03-12,AGT-005,training request,Implementation,8.2,7.3,5.4,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0180,2026-03-13,AGT-007,quality review,Customer success,5.0,6.1,4.6,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0181,2026-03-14,AGT-007,sales note,Customer success,6.3,8.8,7.3,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0182,2026-03-15,AGT-007,stakeholder interview,Customer success,5.7,6.7,5.7,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0183,2026-03-16,AGT-007,quality review,Customer success,8.1,5.0,4.4,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0184,2026-03-17,AGT-006,stakeholder interview,Compliance,7.1,6.4,4.7,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0185,2026-03-18,AGT-007,sales note,Customer success,6.3,7.5,6.5,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0186,2026-03-19,AGT-007,operations retro,Customer success,8.3,8.2,5.2,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0187,2026-03-20,AGT-003,sales note,Growth product,8.9,7.0,5.6,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0188,2026-03-21,AGT-003,sales note,Growth product,7.4,5.8,8.1,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0189,2026-03-22,AGT-006,stakeholder interview,Compliance,8.6,6.7,4.1,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0190,2026-03-23,AGT-005,sales note,Implementation,6.5,9.7,5.0,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0191,2026-03-24,AGT-006,training request,Compliance,7.4,5.3,3.8,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0192,2026-03-25,AGT-006,support escalation,Compliance,4.8,6.0,6.5,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0193,2026-03-26,AGT-008,sales note,Data operations,10,8.2,6.7,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.
+SIG-0194,2026-03-27,AGT-009,operations retro,Sales,8.6,6.6,7.8,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0195,2026-03-28,AGT-004,support escalation,Customer operations,6.5,5.8,7.4,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0196,2026-03-29,AGT-010,sales note,Product operations,7.7,6.9,3.8,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0197,2026-03-30,AGT-006,operations retro,Compliance,6.5,7.2,4.0,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0198,2026-03-31,AGT-007,quality review,Customer success,4.6,7.6,5.6,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0199,2026-04-01,AGT-010,training request,Product operations,10,10,3.7,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0200,2026-04-02,AGT-001,support escalation,Product,10,8.2,5.0,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0201,2026-04-03,AGT-007,training request,Customer success,6.6,7.0,5.9,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0202,2026-04-04,AGT-010,operations retro,Product operations,9.0,9.2,4.6,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0203,2026-04-05,AGT-004,quality review,Customer operations,6.4,7.9,5.2,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0204,2026-04-06,AGT-002,training request,Risk products,10,7.5,3.1,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0205,2026-04-07,AGT-004,training request,Customer operations,6.6,5.2,6.4,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0206,2026-04-08,AGT-004,support escalation,Customer operations,8.5,6.4,5.6,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0207,2026-04-09,AGT-001,stakeholder interview,Product,8.7,4.9,3.0,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0208,2026-04-10,AGT-002,support escalation,Risk products,9.0,5.6,6.7,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0209,2026-04-11,AGT-005,stakeholder interview,Implementation,7.4,5.3,3.3,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0210,2026-04-12,AGT-001,training request,Product,7.6,8.4,7.6,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0211,2026-04-13,AGT-001,quality review,Product,9.9,9.4,5.0,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0212,2026-04-14,AGT-010,operations retro,Product operations,9.6,8.7,6.3,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0213,2026-04-15,AGT-009,support escalation,Sales,8.9,6.1,7.1,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0214,2026-04-16,AGT-002,support escalation,Risk products,8.2,6.0,6.6,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0215,2026-04-17,AGT-002,quality review,Risk products,8.6,6.6,6.6,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0216,2026-04-18,AGT-006,stakeholder interview,Compliance,5.6,6.8,6.8,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0217,2026-04-19,AGT-010,quality review,Product operations,7.5,9.5,6.4,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0218,2026-04-20,AGT-006,quality review,Compliance,8.9,4.8,5.2,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0219,2026-04-21,AGT-002,support escalation,Risk products,8.1,7.1,6.4,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0220,2026-04-22,AGT-004,sales note,Customer operations,7.0,7.5,5.4,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0221,2026-04-23,AGT-005,sales note,Implementation,10,9.7,5.6,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0222,2026-04-24,AGT-006,training request,Compliance,9.7,7.4,5.8,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0223,2026-04-25,AGT-001,stakeholder interview,Product,7.7,8.2,4.9,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0224,2026-04-26,AGT-008,training request,Data operations,7.2,4.6,4.8,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.
+SIG-0225,2026-01-05,AGT-006,training request,Compliance,9.2,3.9,4.4,Compliance operations lead needs compliance exception review agent to reduce manual handoff and preserve review control.
+SIG-0226,2026-01-06,AGT-010,quality review,Product operations,6.0,7.3,4.8,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0227,2026-01-07,AGT-005,operations retro,Implementation,9.2,6.5,6.0,Implementation manager needs data delivery onboarding agent to reduce manual handoff and preserve review control.
+SIG-0228,2026-01-08,AGT-007,operations retro,Customer success,7.2,4.0,7.7,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0229,2026-01-09,AGT-010,training request,Product operations,9.7,7.8,6.0,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0230,2026-01-10,AGT-009,stakeholder interview,Sales,6.5,5.5,5.5,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0231,2026-01-11,AGT-007,operations retro,Customer success,7.1,7.0,6.4,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0232,2026-01-12,AGT-007,sales note,Customer success,4.8,8.1,5.1,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0233,2026-01-13,AGT-010,sales note,Product operations,10,7.4,4.6,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0234,2026-01-14,AGT-007,stakeholder interview,Customer success,5.5,6.5,6.3,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0235,2026-01-15,AGT-009,operations retro,Sales,10,7.0,6.5,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0236,2026-01-16,AGT-001,support escalation,Product,8.5,7.6,6.1,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0237,2026-01-17,AGT-007,support escalation,Customer success,5.8,9.2,6.2,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0238,2026-01-18,AGT-004,quality review,Customer operations,8.0,7.5,5.6,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0239,2026-01-19,AGT-003,training request,Growth product,7.6,9.0,6.6,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0240,2026-01-20,AGT-010,training request,Product operations,8.2,8.9,6.0,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0241,2026-01-21,AGT-010,training request,Product operations,7.4,7.3,6.6,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0242,2026-01-22,AGT-010,sales note,Product operations,8.8,6.8,5.0,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0243,2026-01-23,AGT-004,quality review,Customer operations,6.8,6.2,5.7,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0244,2026-01-24,AGT-002,support escalation,Risk products,8.8,8.0,4.8,Risk product lead needs fraud signal reason code agent to reduce manual handoff and preserve review control.
+SIG-0245,2026-01-25,AGT-008,training request,Data operations,7.7,8.2,6.3,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.
+SIG-0246,2026-01-26,AGT-003,operations retro,Growth product,6.9,9.0,7.6,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0247,2026-01-27,AGT-001,operations retro,Product,7.6,4.0,6.1,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0248,2026-01-28,AGT-007,support escalation,Customer success,7.5,4.9,5.5,Enablement lead needs customer training workshop agent to reduce manual handoff and preserve review control.
+SIG-0249,2026-01-29,AGT-003,training request,Growth product,7.6,3.7,3.9,Sales enablement lead needs lead builder audience qa agent to reduce manual handoff and preserve review control.
+SIG-0250,2026-01-30,AGT-009,quality review,Sales,8.2,7.7,4.6,Sales leader needs sales discovery call synthesizer to reduce manual handoff and preserve review control.
+SIG-0251,2026-01-31,AGT-004,quality review,Customer operations,6.1,7.7,5.9,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0252,2026-02-01,AGT-010,sales note,Product operations,8.4,6.9,5.7,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0253,2026-02-02,AGT-001,training request,Product,8.9,5.4,5.5,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0254,2026-02-03,AGT-001,training request,Product,8.9,6.6,4.8,Platform product manager needs identity resolution intake agent to reduce manual handoff and preserve review control.
+SIG-0255,2026-02-04,AGT-008,stakeholder interview,Data operations,9.2,6.6,6.6,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.
+SIG-0256,2026-02-05,AGT-010,operations retro,Product operations,7.6,6.8,8.1,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0257,2026-02-06,AGT-010,training request,Product operations,8.8,8.4,7.0,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0258,2026-02-07,AGT-004,operations retro,Customer operations,6.8,8.0,5.0,Investigation support manager needs investigation research brief agent to reduce manual handoff and preserve review control.
+SIG-0259,2026-02-08,AGT-010,operations retro,Product operations,8.3,7.5,5.6,AI program lead needs internal ai agent review coach to reduce manual handoff and preserve review control.
+SIG-0260,2026-02-09,AGT-008,support escalation,Data operations,8.1,4.5,5.5,Data operations lead needs data quality drift digest agent to reduce manual handoff and preserve review control.

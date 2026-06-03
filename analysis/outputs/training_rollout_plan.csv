@@ -1,0 +1,11 @@
+training_id,team,workflow_id,module,readiness_score,attendees,blocker,next_action
+TRN-CUS-4,Customer operations,AGT-002,Workflow scoping,62.5,17,None,Schedule review lab
+TRN-CUS-1,Customer success,AGT-008,Workflow scoping,63.8,8,Needs manager sponsor,Schedule review lab
+TRN-CUS-3,Customer operations,AGT-008,Agent basics,65.0,12,Needs policy review,Create office hours
+TRN-PRO-3,Product,AGT-008,Agent basics,65.7,14,Needs policy review,Publish playbook
+TRN-DAT-3,Data operations,AGT-005,Prompt repair,67.5,9,Needs examples,Create office hours
+TRN-RIS-4,Risk products,AGT-006,Agent basics,68.3,6,Needs examples,Publish playbook
+TRN-PRO-4,Product,AGT-006,Agent basics,69.6,14,Needs policy review,Create office hours
+TRN-CUS-2,Customer success,AGT-003,Agent basics,73.1,23,Needs examples,Schedule review lab
+TRN-DAT-2,Data operations,AGT-002,Prompt repair,74.6,22,Needs policy review,Schedule review lab
+TRN-DAT-1,Data operations,AGT-005,Agent basics,75.1,6,Needs examples,Run workshop

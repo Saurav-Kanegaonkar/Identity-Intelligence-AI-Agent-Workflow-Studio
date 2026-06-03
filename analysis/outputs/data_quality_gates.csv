@@ -1,0 +1,4 @@
+check_id,workflow_id,check_name,pass_rate,owner,gate
+DQ-010-1,AGT-010,Identifier completeness,82.0,Product operations,Monitor
+DQ-010-2,AGT-010,Source freshness,84.0,Product operations,Monitor
+DQ-010-3,AGT-010,Consent and use-case tag,89.8,Product operations,Clear

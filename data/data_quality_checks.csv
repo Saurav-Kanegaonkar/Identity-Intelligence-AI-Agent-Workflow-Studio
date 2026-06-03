@@ -1,0 +1,31 @@
+check_id,workflow_id,check_name,pass_rate,owner,gate
+DQ-001-1,AGT-001,Identifier completeness,82.4,Product,Monitor
+DQ-001-2,AGT-001,Source freshness,80.7,Product,Monitor
+DQ-001-3,AGT-001,Consent and use-case tag,74.3,Product,Monitor
+DQ-002-1,AGT-002,Identifier completeness,77.7,Risk products,Monitor
+DQ-002-2,AGT-002,Source freshness,75.7,Risk products,Monitor
+DQ-002-3,AGT-002,Consent and use-case tag,76.1,Risk products,Monitor
+DQ-003-1,AGT-003,Identifier completeness,93.6,Growth product,Clear
+DQ-003-2,AGT-003,Source freshness,85.4,Growth product,Clear
+DQ-003-3,AGT-003,Consent and use-case tag,78.0,Growth product,Monitor
+DQ-004-1,AGT-004,Identifier completeness,78.1,Customer operations,Monitor
+DQ-004-2,AGT-004,Source freshness,67.0,Customer operations,Pilot blocker
+DQ-004-3,AGT-004,Consent and use-case tag,70.5,Customer operations,Monitor
+DQ-005-1,AGT-005,Identifier completeness,77.5,Implementation,Monitor
+DQ-005-2,AGT-005,Source freshness,80.7,Implementation,Monitor
+DQ-005-3,AGT-005,Consent and use-case tag,82.0,Implementation,Monitor
+DQ-006-1,AGT-006,Identifier completeness,92.7,Compliance,Clear
+DQ-006-2,AGT-006,Source freshness,69.0,Compliance,Pilot blocker
+DQ-006-3,AGT-006,Consent and use-case tag,81.9,Compliance,Monitor
+DQ-007-1,AGT-007,Identifier completeness,91.6,Customer success,Clear
+DQ-007-2,AGT-007,Source freshness,73.2,Customer success,Monitor
+DQ-007-3,AGT-007,Consent and use-case tag,92.9,Customer success,Clear
+DQ-008-1,AGT-008,Identifier completeness,86.3,Data operations,Clear
+DQ-008-2,AGT-008,Source freshness,84.4,Data operations,Clear
+DQ-008-3,AGT-008,Consent and use-case tag,85.3,Data operations,Clear
+DQ-009-1,AGT-009,Identifier completeness,78.5,Sales,Monitor
+DQ-009-2,AGT-009,Source freshness,87.1,Sales,Clear
+DQ-009-3,AGT-009,Consent and use-case tag,89.0,Sales,Clear
+DQ-010-1,AGT-010,Identifier completeness,82.0,Product operations,Monitor
+DQ-010-2,AGT-010,Source freshness,84.0,Product operations,Monitor
+DQ-010-3,AGT-010,Consent and use-case tag,89.8,Product operations,Clear

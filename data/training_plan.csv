@@ -1,0 +1,33 @@
+training_id,team,workflow_id,module,readiness_score,attendees,blocker,next_action
+TRN-PRO-1,Product,AGT-010,Prompt repair,96,13,Needs policy review,Run workshop
+TRN-PRO-2,Product,AGT-010,Prompt repair,89.6,11,None,Create office hours
+TRN-PRO-3,Product,AGT-008,Agent basics,65.7,14,Needs policy review,Publish playbook
+TRN-PRO-4,Product,AGT-006,Agent basics,69.6,14,Needs policy review,Create office hours
+TRN-RIS-1,Risk products,AGT-001,Review rubric,88.2,16,Needs manager sponsor,Create office hours
+TRN-RIS-2,Risk products,AGT-010,Agent basics,96,8,Needs manager sponsor,Create office hours
+TRN-RIS-3,Risk products,AGT-003,Agent basics,78.4,11,None,Publish playbook
+TRN-RIS-4,Risk products,AGT-006,Agent basics,68.3,6,Needs examples,Publish playbook
+TRN-CUS-1,Customer operations,AGT-007,Prompt repair,96,19,None,Publish playbook
+TRN-CUS-2,Customer operations,AGT-007,Review rubric,89.7,19,Needs policy review,Schedule review lab
+TRN-CUS-3,Customer operations,AGT-008,Agent basics,65.0,12,Needs policy review,Create office hours
+TRN-CUS-4,Customer operations,AGT-002,Workflow scoping,62.5,17,None,Schedule review lab
+TRN-IMP-1,Implementation,AGT-007,Agent basics,96,11,Needs examples,Publish playbook
+TRN-IMP-2,Implementation,AGT-001,Prompt repair,85.2,9,Needs examples,Publish playbook
+TRN-IMP-3,Implementation,AGT-008,Prompt repair,79.1,7,Needs manager sponsor,Publish playbook
+TRN-IMP-4,Implementation,AGT-010,Review rubric,93.4,7,Needs manager sponsor,Create office hours
+TRN-SAL-1,Sales,AGT-008,Agent basics,93.3,13,Needs examples,Create office hours
+TRN-SAL-2,Sales,AGT-003,Agent basics,78.2,9,None,Publish playbook
+TRN-SAL-3,Sales,AGT-004,Review rubric,77.0,19,None,Run workshop
+TRN-SAL-4,Sales,AGT-001,Prompt repair,79.9,15,Needs examples,Create office hours
+TRN-CUS-1,Customer success,AGT-008,Workflow scoping,63.8,8,Needs manager sponsor,Schedule review lab
+TRN-CUS-2,Customer success,AGT-003,Agent basics,73.1,23,Needs examples,Schedule review lab
+TRN-CUS-3,Customer success,AGT-010,Agent basics,82.1,7,Needs policy review,Publish playbook
+TRN-CUS-4,Customer success,AGT-009,Prompt repair,75.5,12,Needs examples,Run workshop
+TRN-DAT-1,Data operations,AGT-005,Agent basics,75.1,6,Needs examples,Run workshop
+TRN-DAT-2,Data operations,AGT-002,Prompt repair,74.6,22,Needs policy review,Schedule review lab
+TRN-DAT-3,Data operations,AGT-005,Prompt repair,67.5,9,Needs examples,Create office hours
+TRN-DAT-4,Data operations,AGT-002,Workflow scoping,81.8,18,None,Schedule review lab
+TRN-COM-1,Compliance,AGT-010,Workflow scoping,80.0,16,Needs examples,Publish playbook
+TRN-COM-2,Compliance,AGT-002,Prompt repair,78.8,15,Needs manager sponsor,Schedule review lab
+TRN-COM-3,Compliance,AGT-008,Prompt repair,80.5,21,Needs examples,Publish playbook
+TRN-COM-4,Compliance,AGT-005,Prompt repair,77.9,18,Needs manager sponsor,Schedule review lab

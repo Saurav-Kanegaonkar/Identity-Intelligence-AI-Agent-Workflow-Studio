@@ -1,0 +1,6 @@
+section,owner,detail,acceptance_criteria
+Problem,AI program lead,Teams need a common rubric for reviewing agent outputs before internal workflows spread across departments.,"A non-technical stakeholder can confirm the workflow, required inputs, output format, and approval gate."
+Agent Job,Product manager,"Score agent drafts, identify missing guardrails, suggest prompt improvements, and prepare coaching notes for builders.","Agent output includes confidence, source references, unresolved questions, and next action."
+Inputs,Product operations,"Agent specs, test outputs, review rubric","Every input has a named source owner, refresh expectation, and sensitive-field handling rule."
+Human Gate,Workflow reviewer,"Human reviewer approves external-facing language, policy-sensitive decisions, and any low-confidence recommendation.",No consequential decision leaves the workflow without a reviewer trace.
+Jira Handoff,Engineering and design,"Build a repeatable Cowork folder template, review checklist, sample input pack, and audit log export.","Delivery team can size setup, test coverage, permissions, and rollout tasks in one planning session."
